@@ -4,4 +4,4 @@ install: true
 jdk:
 - oraclejdk8
 script:
-- gradle assemble check build
+- ./pro_play_java/gradlew build
